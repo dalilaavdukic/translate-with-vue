@@ -40,8 +40,7 @@ export default {
 
 <style>
 .language-selector {
-  width: 40%;
-  margin: auto;
   text-align: left;
+  padding: 2rem 5rem;
 }
 </style>
